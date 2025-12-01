@@ -14,7 +14,6 @@ type Note = {
 
 const ROOM_ID = "main_room";
 
-// 付箋1枚分のコンポーネント
 function StickyEditor({
     note,
     onSaved,
